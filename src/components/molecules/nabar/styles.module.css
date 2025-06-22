@@ -1,0 +1,7 @@
+.slice{
+right: -350px;
+transition: right 0.5s ease-in-out;
+}
+.sliceOpen{
+right: 0px;
+}
